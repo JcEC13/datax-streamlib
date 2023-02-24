@@ -1,1 +1,1 @@
-pyspark
+python -m pip install pyspark
